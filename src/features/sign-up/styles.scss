@@ -1,0 +1,22 @@
+.bg{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: url(./images/bg-01.webp);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    .signInForm{
+        height: 600px;
+        width: 500px;
+        background-color: #fff;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        border-radius: 6px;
+        border: 1px solid #fff;
+
+    }
+}
+
